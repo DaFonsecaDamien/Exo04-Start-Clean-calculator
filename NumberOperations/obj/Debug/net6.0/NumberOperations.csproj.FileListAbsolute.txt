@@ -1,0 +1,15 @@
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\bin\Debug\net6.0\NumberOperations.exe
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\bin\Debug\net6.0\NumberOperations.deps.json
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\bin\Debug\net6.0\NumberOperations.runtimeconfig.json
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\bin\Debug\net6.0\NumberOperations.dll
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\bin\Debug\net6.0\NumberOperations.pdb
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.csproj.AssemblyReference.cache
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.AssemblyInfoInputs.cache
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.AssemblyInfo.cs
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.csproj.CoreCompileInputs.cache
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.dll
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\refint\NumberOperations.dll
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.pdb
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\NumberOperations.genruntimeconfig.cache
+E:\ESGI\C#\Exo04-Start-Clean-calculator\NumberOperations\obj\Debug\net6.0\ref\NumberOperations.dll
